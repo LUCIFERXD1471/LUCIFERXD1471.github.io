@@ -18,3 +18,12 @@
     <a href="https://www.monkeysolutions.codes/" class="button">Cancel and return back to <u>Home</u> </a>
   </div>
 </form>
+<html>
+   <head>
+<meta name="google-site-verification" content="9BFKOVjLiuHa6EXRNwxbtFL4CwcEh9ZuDIW-hbScsJ4" />
+      <title>My title</title>
+   </head>
+   <body>
+      page contents
+   </body>
+</html>
